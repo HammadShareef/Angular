@@ -9,18 +9,17 @@
 
         <div class="lower">
 
-            <button style="background-color: white; border: none" type="button" ><img class="Abc" src="picture/2.jpg" /></button>
+            <button style="background-color: white; border: none" type="button" id="searchbtn"><img class="Abc" src="picture/2.jpg" /></button>
 
-            <button type="button" class="btn btn-light">Login</button>
+            <button type="button" class="btn btn-light" routerLink="/Login">Login</button>
 
-            <button type="button" class="btn btn-danger">Signup</button>
+            <button type="button" class="btn btn-danger"routerLink="/Signup">Signup</button>
 
         </div>
 
-
-     
     </span>
 </div>
+<router-outlet></router-outlet>
 
 <br>
 <br>
@@ -28,11 +27,11 @@
 <br>
 <br>
 
-<app-search-component></app-search-component>
-<br>
-    <br>
-    <app-div-component></app-div-component>
-    <br>
-    <app-footer></app-footer>
+
+
+
+
+
+
 
 
