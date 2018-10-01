@@ -1,0 +1,63 @@
+body
+{
+    text-align: center;
+}
+.nav
+{
+    display: inline;
+}
+.upper
+{
+    float: left;
+    padding-left: 15px;
+}
+input{
+    width: 10
+}
+.lower
+{
+    float: right;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+#logo
+{
+    width:100px;
+    height:100px;
+    padding:10px;
+    padding-left: -15px;
+
+}
+#round
+{
+    width:60px;
+    height:80px;
+    padding:15px;
+}
+.Abc
+{
+    border-radius: 50%;
+    width:60px;
+    height:30px;
+    padding: 5px;
+    
+}
+#usr
+{
+    text-align: center;
+}
+.content
+{
+  margin-bottom: 30px;
+  padding: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  border-top-color: #3dbe98;
+  border-top: solid 7px  #3dbe98;
+}
+
+  .container{
+      padding-left:30px;
+  }
+  

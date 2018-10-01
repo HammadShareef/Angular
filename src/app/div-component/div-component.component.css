@@ -1,0 +1,23 @@
+h2
+{
+    font-size: larger;
+    font-family: sans-serif;
+    font-display: grey;
+    text-align: center;
+}
+.content
+{
+  margin-bottom: 30px;
+  padding: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  border-top-color: #3dbe98;
+  border-top: solid 7px  #3dbe98;
+}
+h5{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
