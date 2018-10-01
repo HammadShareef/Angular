@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # FrontPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
@@ -32,6 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 IT-Retina Work
 >>>>>>> 0432b719c6c849ec69d59c6ac2f774425dfc05c9
 =======
-# Angular
-IT-Retina Work
->>>>>>> 2965d9918b7023bad1a0b75cc029c4c0c5bbf789
+
